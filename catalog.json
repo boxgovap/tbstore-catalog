@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-19T15:43:36Z",
+    "generatedAt":  "2026-10-19T15:48:09Z",
     "apps":  [
                  {
                      "id":  "tbstore",
@@ -12,16 +12,16 @@
                      "developer":  "boxgovap",
                      "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/tbstore-512.png",
                      "bannerUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/banners/tbstore.png",
-                     "changelog":  "1.0.6 - Moi card deu la banner thu nho (anh banner, ten + dung luong + mo ta, chip trang thai).",
+                     "changelog":  "1.0.7 - Card o luoi dung 176dp nhu hang ngang: moi card 328x308 dong bo tuyet doi.",
                      "screenshots":  [
 
                                      ],
-                     "versionName":  "1.0.6",
-                     "versionCode":  7,
-                     "sizeBytes":  10672826,
+                     "versionName":  "1.0.7",
+                     "versionCode":  8,
+                     "sizeBytes":  10673657,
                      "minSdk":  21,
-                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/tbstore-1.0.6/tbstore-1.0.6-universal.apk",
-                     "sha256":  "f70c4f71778be324b456f520a8e2ca028ef20a207036d8e1789cdf3c9c05e075",
+                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/tbstore-1.0.7/tbstore-1.0.7-universal.apk",
+                     "sha256":  "83ecd18baf96f40ded268638ea309130a3bf1698018a22bfda88895494db02bd",
                      "releaseDate":  "2026-10-19",
                      "featured":  true,
                      "enabled":  true,
