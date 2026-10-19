@@ -10,7 +10,7 @@
                      "description":  "TBStore là kho ứng dụng kiểu Play Store tối giản cho Android Box, dùng GitHub làm catalog. Hỗ trợ cài đặt, cập nhật, gỡ bỏ, kiểm tra SHA-256 và cache offline.",
                      "categoryId":  "tools",
                      "developer":  "boxgovap",
-                     "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/tbstore.png?v=2",
+                     "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/tbstore-512.png",
                      "bannerUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/banners/tbstore.png",
                      "changelog":  "1.0.3 - Icon ep cung khung bo goc + vien manh: moi icon cung silhouette, het lech.",
                      "screenshots":  [
