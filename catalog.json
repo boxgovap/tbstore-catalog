@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-19T16:43:09Z",
+    "generatedAt":  "2026-10-19T16:55:06Z",
     "apps":  [
                  {
                      "id":  "tbstore",
@@ -27,44 +27,6 @@
                      "enabled":  true,
                      "variants":  [
 
-                                  ]
-                 },
-                 {
-                     "id":  "vlc",
-                     "packageName":  "org.videolan.vlc",
-                     "name":  "VLC Media Player",
-                     "shortDescription":  "Trình phát video và âm thanh",
-                     "description":  "VLC là trình phát đa nền tảng, hỗ trợ hầu hết định dạng video, âm thanh và phụ đề mà không cần codec cài thêm.",
-                     "categoryId":  "media",
-                     "developer":  "VideoLAN",
-                     "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/vlc.png",
-                     "bannerUrl":  "",
-                     "changelog":  "",
-                     "screenshots":  [
-
-                                     ],
-                     "versionName":  "3.0.21",
-                     "versionCode":  3020021,
-                     "sizeBytes":  42000000,
-                     "minSdk":  17,
-                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/vlc-3.0.21/vlc-3.0.21-universal.apk",
-                     "sha256":  "REPLACE_WITH_REAL_SHA256",
-                     "releaseDate":  "2026-10-18",
-                     "featured":  false,
-                     "enabled":  false,
-                     "variants":  [
-                                      {
-                                          "abi":  "arm64-v8a",
-                                          "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/vlc-3.0.21/vlc-3.0.21-arm64-v8a.apk",
-                                          "sizeBytes":  42000000,
-                                          "sha256":  "REPLACE_WITH_REAL_SHA256"
-                                      },
-                                      {
-                                          "abi":  "armeabi-v7a",
-                                          "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/vlc-3.0.21/vlc-3.0.21-armeabi-v7a.apk",
-                                          "sizeBytes":  38000000,
-                                          "sha256":  "REPLACE_WITH_REAL_SHA256"
-                                      }
                                   ]
                  },
                  {
