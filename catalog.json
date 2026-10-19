@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-19T15:57:25Z",
+    "generatedAt":  "2026-10-19T16:26:49Z",
     "apps":  [
                  {
                      "id":  "tbstore",
@@ -89,6 +89,60 @@
                      "sha256":  "bd613476c65fb304da1382e8e35b9ab7e32d8fd808f25c8dbec58091bed8027c",
                      "releaseDate":  "2026-10-19",
                      "featured":  true,
+                     "enabled":  true,
+                     "variants":  [
+
+                                  ]
+                 },
+                 {
+                     "id":  "iptv",
+                     "packageName":  "com.haidaklak.iptv",
+                     "name":  "THtv",
+                     "shortDescription":  "",
+                     "description":  "",
+                     "categoryId":  "entertainment",
+                     "developer":  "",
+                     "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/iptv.png?v=20261019232639",
+                     "bannerUrl":  "",
+                     "changelog":  "",
+                     "screenshots":  [
+
+                                     ],
+                     "versionName":  "1.1.6",
+                     "versionCode":  9,
+                     "sizeBytes":  8358427,
+                     "minSdk":  21,
+                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/iptv-1.1.6/iptv-1.1.6-universal.apk",
+                     "sha256":  "c82b7ae1774625ebea651cc03e73e3f3984fc24d54af0c408e40be4a08bdb908",
+                     "releaseDate":  "2026-10-19",
+                     "featured":  false,
+                     "enabled":  true,
+                     "variants":  [
+
+                                  ]
+                 },
+                 {
+                     "id":  "vietplaytv",
+                     "packageName":  "com.nghenhin24h.vietplaytv",
+                     "name":  "VietPlay TV",
+                     "shortDescription":  "",
+                     "description":  "",
+                     "categoryId":  "entertainment",
+                     "developer":  "",
+                     "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/vietplaytv.png?v=20261019232644",
+                     "bannerUrl":  "",
+                     "changelog":  "",
+                     "screenshots":  [
+
+                                     ],
+                     "versionName":  "2.3",
+                     "versionCode":  14,
+                     "sizeBytes":  12505194,
+                     "minSdk":  23,
+                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/vietplaytv-2.3/vietplaytv-2.3-universal.apk",
+                     "sha256":  "381a4ede196428b57f523b5c42e303d0a979433c855c9ef12b29fdc897eda359",
+                     "releaseDate":  "2026-10-19",
+                     "featured":  false,
                      "enabled":  true,
                      "variants":  [
 
