@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-19T12:06:56Z",
+    "generatedAt":  "2026-10-19T12:48:48Z",
     "apps":  [
                  {
                      "id":  "tbstore",
@@ -12,16 +12,16 @@
                      "developer":  "boxgovap",
                      "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/tbstore.png",
                      "bannerUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/banners/tbstore.png",
-                     "changelog":  "1.0.1 - Nhúng sẵn URL catalog: box không cần nhập gì, mở là có app ngay.",
+                     "changelog":  "1.0.2 - Icon app thu nho va can deu: khung 56dp, Fit + le trong, khong con lech kich thuoc.",
                      "screenshots":  [
 
                                      ],
-                     "versionName":  "1.0.1",
-                     "versionCode":  2,
-                     "sizeBytes":  10672465,
+                     "versionName":  "1.0.2",
+                     "versionCode":  3,
+                     "sizeBytes":  10672248,
                      "minSdk":  21,
-                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/tbstore-1.0.1/tbstore-1.0.1-universal.apk",
-                     "sha256":  "40a3a2a726e0f02b21ad31b03d3a179e6bab6fe4168d3e46a34559ca4822240c",
+                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/tbstore-1.0.2/tbstore-1.0.2-universal.apk",
+                     "sha256":  "ca67c459b6405b320fc32b8fee5b69fa2d65a3f10861e474c6ba7acbbd37a25d",
                      "releaseDate":  "2026-10-19",
                      "featured":  true,
                      "enabled":  true,
