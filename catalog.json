@@ -75,8 +75,8 @@
                      "description":  "",
                      "categoryId":  "entertainment",
                      "developer":  "DVTShop",
-                     "iconUrl":  "",
-                     "bannerUrl":  "",
+                     "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/tvplus.png",
+                     "bannerUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/banners/tvplus.png",
                      "changelog":  "",
                      "screenshots":  [
 
