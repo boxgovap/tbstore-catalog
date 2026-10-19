@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-19T15:32:53Z",
+    "generatedAt":  "2026-10-19T15:43:36Z",
     "apps":  [
                  {
                      "id":  "tbstore",
@@ -12,16 +12,16 @@
                      "developer":  "boxgovap",
                      "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/tbstore-512.png",
                      "bannerUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/banners/tbstore.png",
-                     "changelog":  "1.0.5 - Card \u0027Noi bat\u0027 thu bang card thuong (176x154dp), ca hai hang dong bo.",
+                     "changelog":  "1.0.6 - Moi card deu la banner thu nho (anh banner, ten + dung luong + mo ta, chip trang thai).",
                      "screenshots":  [
 
                                      ],
-                     "versionName":  "1.0.5",
-                     "versionCode":  6,
-                     "sizeBytes":  10673594,
+                     "versionName":  "1.0.6",
+                     "versionCode":  7,
+                     "sizeBytes":  10672826,
                      "minSdk":  21,
-                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/tbstore-1.0.5/tbstore-1.0.5-universal.apk",
-                     "sha256":  "9b8b0b779024e958a80cb006c121f31e30fe93f24fa16e541515fed4a525d937",
+                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/tbstore-1.0.6/tbstore-1.0.6-universal.apk",
+                     "sha256":  "f70c4f71778be324b456f520a8e2ca028ef20a207036d8e1789cdf3c9c05e075",
                      "releaseDate":  "2026-10-19",
                      "featured":  true,
                      "enabled":  true,
