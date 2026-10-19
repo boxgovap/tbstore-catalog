@@ -1,0 +1,11 @@
+{
+  "categories": [
+    { "id": "entertainment", "name": "Giải trí", "icon": "movie" },
+    { "id": "utility", "name": "Tiện ích", "icon": "tools" },
+    { "id": "browser", "name": "Trình duyệt", "icon": "web" },
+    { "id": "media", "name": "Media Player", "icon": "play" },
+    { "id": "education", "name": "Học tập", "icon": "school" },
+    { "id": "tools", "name": "Công cụ hệ thống", "icon": "settings" },
+    { "id": "other", "name": "Khác", "icon": "apps" }
+  ]
+}
