@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-19T13:03:50Z",
+    "generatedAt":  "2026-10-19T14:18:47Z",
     "apps":  [
                  {
                      "id":  "tbstore",
@@ -12,16 +12,16 @@
                      "developer":  "boxgovap",
                      "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/tbstore-512.png",
                      "bannerUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/banners/tbstore.png",
-                     "changelog":  "1.0.3 - Icon ep cung khung bo goc + vien manh: moi icon cung silhouette, het lech.",
+                     "changelog":  "1.0.4 - The app gon hon: card cung chieu cao (mo ta 1 dong), icon 48dp, luoi 5 cot.",
                      "screenshots":  [
 
                                      ],
-                     "versionName":  "1.0.3",
-                     "versionCode":  4,
-                     "sizeBytes":  10673072,
+                     "versionName":  "1.0.4",
+                     "versionCode":  5,
+                     "sizeBytes":  10672910,
                      "minSdk":  21,
-                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/tbstore-1.0.3/tbstore-1.0.3-universal.apk",
-                     "sha256":  "d321f6c3c8f98ad528311f4d970cf286badf9cae84660eb7d4600520c09393d7",
+                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/tbstore-1.0.4/tbstore-1.0.4-universal.apk",
+                     "sha256":  "63b4a6bf10adbb0d48619dd990c3d7201745f7c2910baa6f754a8c4d4898e178",
                      "releaseDate":  "2026-10-19",
                      "featured":  true,
                      "enabled":  true,
