@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-20T11:37:31Z",
+    "generatedAt":  "2026-10-20T12:42:06Z",
     "apps":  [
                  {
                      "id":  "tbstore",
@@ -76,7 +76,7 @@
                      "minSdk":  21,
                      "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/iptv-1.1.6/iptv-1.1.6-universal.apk",
                      "sha256":  "c82b7ae1774625ebea651cc03e73e3f3984fc24d54af0c408e40be4a08bdb908",
-                     "releaseDate":  "2026-10-19",
+                     "releaseDate":  "2026-10-20",
                      "featured":  false,
                      "enabled":  true,
                      "variants":  [
