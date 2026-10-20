@@ -1,28 +1,28 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-20T12:43:27Z",
+    "generatedAt":  "2026-10-20T13:19:29Z",
     "apps":  [
                  {
                      "id":  "tbstore",
                      "packageName":  "com.tbstore.app",
                      "name":  "TBStore",
-                     "shortDescription":  "Kho ứng dụng Android Box",
+                     "shortDescription":  "Kho ung dung Android Box",
                      "description":  "TBStore là kho ứng dụng kiểu Play Store tối giản cho Android Box, dùng GitHub làm catalog. Hỗ trợ cài đặt, cập nhật, gỡ bỏ, kiểm tra SHA-256 và cache offline.",
                      "categoryId":  "tools",
                      "developer":  "boxgovap",
                      "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/tbstore-512.png",
                      "bannerUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/banners/tbstore.png",
-                     "changelog":  "1.0.8 - Luoi 5 cot tinh theo be rong man hinh: cot luoi thang hang tuyet doi voi card o hang ngang.",
+                     "changelog":  "1.0.9 - Bam Tai lai la thay app moi ngay: catalog tai kem tham so thoi gian nen khong con dinh ban cache 5 phut cua GitHub.",
                      "screenshots":  [
 
                                      ],
-                     "versionName":  "1.0.8",
-                     "versionCode":  9,
-                     "sizeBytes":  10673454,
+                     "versionName":  "1.0.9",
+                     "versionCode":  10,
+                     "sizeBytes":  10673823,
                      "minSdk":  21,
-                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/tbstore-1.0.8/tbstore-1.0.8-universal.apk",
-                     "sha256":  "2837e1c574bbf2e238ab2fc7b8c751d0046cfcdb4af303d6944fd163801c2be4",
-                     "releaseDate":  "2026-10-19",
+                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/tbstore-1.0.9/tbstore-1.0.9-universal.apk",
+                     "sha256":  "bee79cdd3d0bf66c41a4fbb77af4cfa8aa19bbcd926b3896a82d8f7c06f30bab",
+                     "releaseDate":  "2026-10-20",
                      "featured":  true,
                      "enabled":  true,
                      "variants":  [
