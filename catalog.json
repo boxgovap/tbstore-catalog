@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-19T16:55:06Z",
+    "generatedAt":  "2026-10-20T11:11:16Z",
     "apps":  [
                  {
                      "id":  "tbstore",
@@ -104,6 +104,33 @@
                      "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/vietplaytv-2.3/vietplaytv-2.3-universal.apk",
                      "sha256":  "381a4ede196428b57f523b5c42e303d0a979433c855c9ef12b29fdc897eda359",
                      "releaseDate":  "2026-10-19",
+                     "featured":  false,
+                     "enabled":  true,
+                     "variants":  [
+
+                                  ]
+                 },
+                 {
+                     "id":  "autostart-manager",
+                     "packageName":  "com.sugarapps.autostartmanager",
+                     "name":  "AutoStart Manager",
+                     "shortDescription":  "",
+                     "description":  "",
+                     "categoryId":  "utility",
+                     "developer":  "",
+                     "iconUrl":  "",
+                     "bannerUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/banners/autostart-manager.png?v=20261020181110",
+                     "changelog":  "",
+                     "screenshots":  [
+
+                                     ],
+                     "versionName":  "8.2.0",
+                     "versionCode":  50,
+                     "sizeBytes":  12340880,
+                     "minSdk":  23,
+                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/autostart-manager-8.2.0/autostart-manager-8.2.0-universal.apk",
+                     "sha256":  "d19d694797c54a3d3e7aaafcafb0e61f54d0aa98d17e085633bf07a2f6571c27",
+                     "releaseDate":  "2026-10-20",
                      "featured":  false,
                      "enabled":  true,
                      "variants":  [
