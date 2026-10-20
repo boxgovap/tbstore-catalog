@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-20T13:36:51Z",
+    "generatedAt":  "2026-10-20T13:37:00Z",
     "apps":  [
                  {
                      "id":  "tbstore",
@@ -174,7 +174,7 @@
                      "developer":  "",
                      "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/smartkaraoke.png?v=20261020194243",
                      "bannerUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/banners/smartkaraoke.png?v=20261020194243",
-                     "changelog":  "cache-probe-203651",
+                     "changelog":  "DVT Smart Karaoke 4K - ban dau",
                      "screenshots":  [
 
                                      ],
