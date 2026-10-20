@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-20T12:42:06Z",
+    "generatedAt":  "2026-10-20T12:42:48Z",
     "apps":  [
                  {
                      "id":  "tbstore",
@@ -159,6 +159,33 @@
                      "sha256":  "d9868c1570f0612c5cb7284ec26846041705939948314c478c41beaae07e9b64",
                      "releaseDate":  "2026-10-20",
                      "featured":  false,
+                     "enabled":  true,
+                     "variants":  [
+
+                                  ]
+                 },
+                 {
+                     "id":  "smartkaraoke",
+                     "packageName":  "com.dvt.smartkaraoke",
+                     "name":  "DVT Smart Karaoke 4K",
+                     "shortDescription":  "",
+                     "description":  "",
+                     "categoryId":  "entertainment",
+                     "developer":  "",
+                     "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/smartkaraoke.png?v=20261020194243",
+                     "bannerUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/banners/smartkaraoke.png?v=20261020194243",
+                     "changelog":  "",
+                     "screenshots":  [
+
+                                     ],
+                     "versionName":  "1.0.0",
+                     "versionCode":  1,
+                     "sizeBytes":  13263134,
+                     "minSdk":  21,
+                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/smartkaraoke-1.0.0/smartkaraoke-1.0.0-universal.apk",
+                     "sha256":  "ff48a95d0a193421c640b8a7caf92d5baf5dc918624ed4555e1a58a50db7e08d",
+                     "releaseDate":  "2026-10-20",
+                     "featured":  true,
                      "enabled":  true,
                      "variants":  [
 
