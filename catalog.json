@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-20T13:26:51Z",
+    "generatedAt":  "2026-10-20T13:36:51Z",
     "apps":  [
                  {
                      "id":  "tbstore",
@@ -174,7 +174,7 @@
                      "developer":  "",
                      "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/smartkaraoke.png?v=20261020194243",
                      "bannerUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/banners/smartkaraoke.png?v=20261020194243",
-                     "changelog":  "",
+                     "changelog":  "cache-probe-203651",
                      "screenshots":  [
 
                                      ],
