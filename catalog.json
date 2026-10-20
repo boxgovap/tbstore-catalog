@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-20T12:42:48Z",
+    "generatedAt":  "2026-10-20T12:43:27Z",
     "apps":  [
                  {
                      "id":  "tbstore",
@@ -184,6 +184,33 @@
                      "minSdk":  21,
                      "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/smartkaraoke-1.0.0/smartkaraoke-1.0.0-universal.apk",
                      "sha256":  "ff48a95d0a193421c640b8a7caf92d5baf5dc918624ed4555e1a58a50db7e08d",
+                     "releaseDate":  "2026-10-20",
+                     "featured":  true,
+                     "enabled":  true,
+                     "variants":  [
+
+                                  ]
+                 },
+                 {
+                     "id":  "store",
+                     "packageName":  "com.dvtshop.store",
+                     "name":  "DVTStore",
+                     "shortDescription":  "",
+                     "description":  "",
+                     "categoryId":  "utility",
+                     "developer":  "",
+                     "iconUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/icons/store.png?v=20261020194321",
+                     "bannerUrl":  "https://raw.githubusercontent.com/boxgovap/tbstore-catalog/main/banners/store.png?v=20261020194321",
+                     "changelog":  "",
+                     "screenshots":  [
+
+                                     ],
+                     "versionName":  "2.0",
+                     "versionCode":  2026,
+                     "sizeBytes":  12102675,
+                     "minSdk":  21,
+                     "apkUrl":  "https://github.com/boxgovap/tbstore-catalog/releases/download/store-2.0/store-2.0-universal.apk",
+                     "sha256":  "37d550afaf3a4a93a671370d4fe9bef76fdb0e99f74d2f9acd4e172d301512e1",
                      "releaseDate":  "2026-10-20",
                      "featured":  true,
                      "enabled":  true,
